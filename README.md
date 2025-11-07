@@ -4,12 +4,12 @@ Welcome to my data portfolio! Here I document a summary of the projects I have c
 I am more than happy to collaborate with you in projects. Please feel free to reach out 🤗
 
 ## 🧰 Table of Contents
-- [About Me](#👩🏽‍💻AboutMe)
-- [Machine Learning](#MachineLearning)
-- [Data Analytics](#DataAnalytics)
-- [Large Language Models](#LargeLanguageModels)
-- [SQL](#SQL)
-- [Data Visualization](#DataVisualization)
+- [About Me](#about-me)
+- [Machine Learning](#machine-learning)
+- [Data Analytics](#data-analytics)
+- [SQL](#sql)
+- [Data Visualization](#data-visualization)
+- [Large Language Models](#large-language-models)
 
 ## 👩🏽‍💻 About Me
 - experienced as a **Machine Learning Engineer** in research oriented & industrial level AI projects at Synopsys
