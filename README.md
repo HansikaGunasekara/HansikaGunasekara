@@ -19,7 +19,7 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 - hold a **bachelor's degree** in Electrical & Electronic Engineering with Honours
 - have expertise in **Data Analytics, Data Engineering, Computer Vision, Deep Learning, Machine Learning & Large Language Models**
 - 💬 ask me about **CI/CD pipelines**, AI Integrations, data intensive applications & natural language processing with Transformers
-- proud about my **resillience** I built up as a **machine learning engineer** starting from my final year computer vision research project 🦾
+- proud about my **resillience** I keep building up as a **machine learning engineer** starting from my final year computer vision research project 🦾
 
 ## Machine Learning
 | Project Link | Web App Link | Tools | Project Description |
