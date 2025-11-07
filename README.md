@@ -29,7 +29,7 @@ I am more than happy to collaborate with you in projects 🤗
 ## Data Analytics
 | Project Link | Topics | Tools | Project Description | 
 |---|---|---|---|
-|[Travel Insurance Claims Analysis](https://github.com/HansikaGunasekara/travel-insurance-claims-analysis)🪪⚖️|- Claims Analysis<br> - Product Performance<br> - Data Quality<br> - Market Segmentation|[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/yourusername/yourrepo/blob/main/notebook.ipynb](https://colab.research.google.com/drive/1ZuYnDWNClnMPqYoWBKB5y3bWPsjGlt9Y?usp=sharing))<br> **Python<br> Pandas<br>**|📊 Comprehensive exploratory data analysis on the Travel Insurance Dataset, focused on<br>- 💰 Claim acceptance patterns and customer behavior<br>- 🧳 Product performance across agencies & agency types<br>- ⚠️ Data quality issues affecting business insights|
+|[Travel Insurance Claims Analysis](https://github.com/HansikaGunasekara/travel-insurance-claims-analysis)🪪⚖️|- Claims Analysis<br> - Product Performance<br> - Data Quality<br> - Market Segmentation|[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZuYnDWNClnMPqYoWBKB5y3bWPsjGlt9Y?usp=sharing)<br> **Python<br> Pandas<br>**|📊 Comprehensive exploratory data analysis on the Travel Insurance Dataset, focused on<br>- 💰 Claim acceptance patterns and customer behavior<br>- 🧳 Product performance across agencies & agency types<br>- ⚠️ Data quality issues affecting business insights|
 
 ## SQL
 | Project Link | Topics | Tools | Project Description | 
