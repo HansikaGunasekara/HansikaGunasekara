@@ -1,7 +1,7 @@
 # 🕵🏼‍♀️ Hansika's Portfolio
 
 Welcome to my data portfolio! Here I document a summary of the projects I have contributed to.<br>
-I am more than happy to collaborate with you in projects 🤗
+I am more than happy to collaborate with you in projects. Please feel free to reach out 🤗
 
 ## 🧰 Table of Contents
 - [About Me](#👩🏽‍💻AboutMe)
