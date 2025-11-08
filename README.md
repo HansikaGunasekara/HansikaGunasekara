@@ -13,7 +13,7 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 
 ## 👩🏽‍💻 About Me
 - experienced as a **Machine Learning Engineer** in research oriented & industrial level AI projects at Synopsys
-- a first hire to an AI Research & Development at Synopsys
+- a first hire to a Global AI Research & Development Team at Synopsys
 - self-learnt to code in **Python**
 - authored a **US patent** and **research publications** in design automation conferences held in US & Taiwan
 - hold a **bachelor's degree** in Electrical & Electronic Engineering with Honours
