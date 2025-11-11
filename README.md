@@ -10,8 +10,7 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 - [Machine Learning](#machine-learning)
 - [Data Analytics](#data-analytics)
 - [SQL](#sql)
-- [Data Visualization](#data-visualization)
-- [Large Language Models](#large-language-models)
+- [HealthTech](#healthtech)
 
 ## 👩🏽‍💻 About Me
 - experienced as a **Machine Learning Engineer** in research oriented & industrial level AI projects at Synopsys
@@ -37,3 +36,8 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 | Project Link | Tools | Project Description | 
 |---|---|---|
 |[Claims Integrity and Risk Analysis](https://github.com/HansikaGunasekara/claims-integrity-and-risk-analysis)🏥|**GCP<br> BigQuery<br> Looker Studio<br> SQL**|This project focuses on detecting anomalies in hospital claim data to detect fraud and enhance payout efficiency<br> Topics discussed:<br>- Data Validation<br> - Anomaly Detection<br> - Fraud Logic Model|
+
+## HealthTech
+| Project Link | Web App Link | Tools | Project Description |
+|---|---|---|---|
+|[Personalized Anaesthesia Management](https://github.com/HansikaGunasekara/Anesthesia-Outcome)🩺|[Streamlit App](https://anesthesia-outcome-jim34vgn5xukrdiqre6x6i.streamlit.app)|**Python<br> Sklearn<br> Pandas<br> Streamlit<br> Ensemble Learner Models<br>**|Developed & deployed a machine learning model pipeline to estimate post-surgical outcomes for patients based on demographic, surgical, anesthetic, and perioperative data|
