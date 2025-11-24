@@ -7,12 +7,13 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 
 ## 🧰 Table of Contents
 - [About Me](#about-me)
+- [Agentic AI Applications](#agentic-ai-applications)
 - [Machine Learning](#machine-learning)
 - [Data Analytics](#data-analytics)
 - [SQL](#sql)
 - [HealthTech](#healthtech)
 
-## 👩🏽‍💻 About Me
+## About Me 
 - experienced as a **Machine Learning Engineer** in research oriented & industrial level AI projects at Synopsys
 - a first hire to a Global AI Research & Development Team at Synopsys
 - self-learnt to code in **Python**
@@ -22,6 +23,11 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 - 💬 ask me about **CI/CD pipelines**, AI Integrations, data intensive applications & natural language processing with Transformers
 - proud about my **resillience** I keep building up as a **machine learning engineer** starting from my final year computer vision research project 🦾
 - [view my resume](https://drive.google.com/file/d/1cbq1XdUZLtUXlPJb_ovbmYNklxv8iUlc/view)
+
+## Agentic AI Applications
+| Project Link | Tools | Project Description | 
+|---|---|---|
+|[AI Powered Football Commentator](https://github.com/HansikaGunasekara/AI-Powered-Football-Commentator)⚽️|**Google-ADK**<br> **Gemini**<br> **pydantic**|This project implements a multi‑agent football commentary and research assistant AI Application. It demonstrates a complete agent‑tool orchestration pipeline, combining: <br> - Data retrieval <br> - Pydantic validation <br> - Markdown report generation <br> - TTS audio creation <br> - Multi‑agent coordination|
 
 ## Machine Learning
 | Project Link | Web App Link | Tools | Project Description |
