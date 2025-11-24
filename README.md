@@ -6,12 +6,12 @@ Welcome to my data portfolio! Here I document a summary of the projects I have c
 I am more than happy to collaborate with you in projects. Please feel free to reach out 🤗
 
 ## 🧰 Table of Contents
-- [About Me](#about-me)
-- [Agentic AI Applications](#agentic-ai-applications)
-- [Machine Learning](#machine-learning)
-- [Data Analytics](#data-analytics)
-- [SQL](#sql)
-- [HealthTech](#healthtech)
+1. [About Me](#about-me)
+2. [Agentic AI Applications](#agentic-ai-applications)
+3. [Machine Learning](#machine-learning)
+4. [Data Analytics](#data-analytics)
+5. [SQL](#sql)
+6. [HealthTech](#healthtech)
 
 ## About Me 
 - experienced as a **Machine Learning Engineer** in research oriented & industrial level AI projects at Synopsys
