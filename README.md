@@ -22,7 +22,7 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 - have expertise in **Data Analytics, Data Engineering, Computer Vision, Deep Learning, Machine Learning & Large Language Models**
 - 💬 ask me about **CI/CD pipelines**, AI Integrations, data intensive applications & natural language processing with Transformers
 - proud about my **resillience** I keep building up as a **machine learning engineer** starting from my final year computer vision research project 🦾
-- [view my resume](https://drive.google.com/file/d/1cbq1XdUZLtUXlPJb_ovbmYNklxv8iUlc/view)
+- [view my resume](https://drive.google.com/file/d/16jW05RFFggYCiYUEXm5ULfWJyA05gSBa/view)
 
 ## Agentic AI Applications
 | Project Link | Tools | Project Description | 
