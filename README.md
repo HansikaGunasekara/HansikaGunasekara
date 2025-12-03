@@ -25,9 +25,9 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 - [view my resume](https://drive.google.com/file/d/16jW05RFFggYCiYUEXm5ULfWJyA05gSBa/view)
 
 ## Agentic AI Applications
-| Project Link | Tools | Project Description | 
-|---|---|---|
-|[Gemini Powered Football Commentator](https://github.com/HansikaGunasekara/AI-Powered-Football-Commentator)⚽️|**Google-ADK**<br> **Gemini**<br> **pydantic**|This project implements a multi‑agent football commentary and research assistant AI Application. It demonstrates a complete agent‑tool orchestration pipeline, combining: <br> - Data retrieval <br> - Pydantic validation <br> - Markdown report generation <br> - Text-To-Speech audio creation <br> - Multi‑agent coordination|
+| Project Link | Video | Tools | Project Description | 
+|---|---|---|---|
+|[▶️ Gemini Powered Football Commentator](https://github.com/HansikaGunasekara/AI-Powered-Football-Commentator)⚽️|[Virtual Commentary](https://youtu.be/cD8a_VurKeg?si=ZIE4-iQqq1Or7DOS)|**Google-ADK**<br> **Gemini**<br> **pydantic**|This project implements a multi‑agent football commentary and research assistant AI Application. It demonstrates a complete agent‑tool orchestration pipeline, combining: <br> - Data retrieval <br> - Pydantic validation <br> - Markdown report generation <br> - Text-To-Speech audio creation <br> - Multi‑agent coordination|
 
 ## Machine Learning
 | Project Link | Web App Link | Tools | Project Description |
