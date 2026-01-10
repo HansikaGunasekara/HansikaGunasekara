@@ -33,6 +33,11 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 |---|---|---|---|
 |[Predict Accident Risk](https://github.com/HansikaGunasekara/accident-risk-predictor)🚦🚗|[Streamlit App](https://accident-risk-predictor-n32nsxbjtjfahgteq2tkvn.streamlit.app)|**Python<br> Sklearn<br> Pandas<br> Streamlit<br> Ensemble Learner Models<br>**|Developed & deployed a machine learning model pipeline to predict the accident risk level (0-1) for a given set of past reported accidents, road infrasturcuture & environmental conditions.<br><br> The regression model achieved a Root Mean Square Error (**RMSE**) of **0.05552** on the **unseen test set, showing strong predictive accuracy**. Since the road accident risk values range from 0 to 1, this low error indicates that the ML model’s predictions are very close to the true risk levels. Overall, the results demonstrate good generalization to new data.<br><br> The stakeholders would be the transport authorities & self-driving car manufacturers|
 
+## Learning Log
+| Project Link | Achievements | Tools | Learning Log |
+|---|---|---|---|
+|[Orchestrating Workflows for GenAI Applications](https://github.com/HansikaGunasekara/Orchestrate-a-RAG-prototype)|||Deeplearning.AI short course completed to deepen and refine my 4+ years of ML product delivery experience orchestrating ML prototypes with Airflow|
+
 ## Data Analytics
 | Project Link | Tools | Project Description | 
 |---|---|---|
