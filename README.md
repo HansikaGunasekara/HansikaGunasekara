@@ -6,10 +6,11 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 ## 🧰 Table of Contents
 1. [About Me](#about-me)
 2. [Agentic AI Applications](#agentic-ai-applications)
-3. [Machine Learning](#machine-learning)
-4. [Data Analytics](#data-analytics)
-5. [SQL](#sql)
-6. [HealthTech](#healthtech)
+3. [Learning Log](#learning-log)
+4. [Machine Learning](#machine-learning)
+5. [Data Analytics](#data-analytics)
+6. [SQL](#sql)
+7. [HealthTech](#healthtech)
 
 ## About Me 
 - experienced as a **Machine Learning Engineer** in research oriented & industrial level AI projects at Synopsys
@@ -28,15 +29,15 @@ I am more than happy to collaborate with you in projects. Please feel free to re
 |🌍♻️Can I Bin It? <br> [Kaggle Write Up](https://kaggle.com/competitions/gemini-3/writeups/new-writeup-1765216883680)|▶️[Demo Video](https://youtu.be/4OPKCI9aX1Y?si=eAQ-A-bSHJ41wZRh)|Gemini 3 Pro <br> TypeScript|This is an intelligent, agentic AI assistant designed to solve the confusion around recycling rules while inspiring a circular economy through creative upcycling. The spark for this project didn't come from a dataset or a policy paper, it came from a look on a face. <br> One morning, watching the local waste collection, I noticed the bin collector pausing at our bin. She looked at the contents, shook her head with a look of sheer resignation and sadness, and had to tag the bin as "contaminated." <br> It struck me: **People want to do the right thing.** Most contamination isn't malicious; it's confusion. We "wish-cycle", tossing things in the blue bin hoping they are recyclable, unknowingly ruining the whole batch. <br> I realized that if we could bridge the gap between *intent* and *knowledge* and provide a creative outlet for the things that *can't* be recycled, we could reduce the burden on our waste workers, divert tons from landfills, and take a tangible step against climate change.|
 |[Gemini Powered Football Commentator](https://github.com/HansikaGunasekara/AI-Powered-Football-Commentator)⚽️|▶️[Virtual Commentary](https://youtu.be/cD8a_VurKeg?si=ZIE4-iQqq1Or7DOS)|**Google-ADK**<br> **Gemini**<br> **pydantic**|This project implements a multi‑agent football commentary and research assistant AI Application. It demonstrates a complete agent‑tool orchestration pipeline, combining: <br> - Data retrieval <br> - Pydantic validation <br> - Markdown report generation <br> - Text-To-Speech audio creation <br> - Multi‑agent coordination|
 
+## Learning Log
+| Project Link | Achievements | Tools | Learning Log |
+|---|---|---|---|
+|[Orchestrating Workflows for GenAI Applications](https://github.com/HansikaGunasekara/Orchestrate-a-RAG-prototype)||`Airflow` <br> `Weaviate` <br> `FastEmbed`|Deeplearning.AI short course completed to deepen and refine my 4+ years of ML product delivery experience orchestrating ML prototypes with Airflow|
+
 ## Machine Learning
 | Project Link | Web App Link | Tools | Project Description |
 |---|---|---|---|
 |[Predict Accident Risk](https://github.com/HansikaGunasekara/accident-risk-predictor)🚦🚗|[Streamlit App](https://accident-risk-predictor-n32nsxbjtjfahgteq2tkvn.streamlit.app)|**Python<br> Sklearn<br> Pandas<br> Streamlit<br> Ensemble Learner Models<br>**|Developed & deployed a machine learning model pipeline to predict the accident risk level (0-1) for a given set of past reported accidents, road infrasturcuture & environmental conditions.<br><br> The regression model achieved a Root Mean Square Error (**RMSE**) of **0.05552** on the **unseen test set, showing strong predictive accuracy**. Since the road accident risk values range from 0 to 1, this low error indicates that the ML model’s predictions are very close to the true risk levels. Overall, the results demonstrate good generalization to new data.<br><br> The stakeholders would be the transport authorities & self-driving car manufacturers|
-
-## Learning Log
-| Project Link | Achievements | Tools | Learning Log |
-|---|---|---|---|
-|[Orchestrating Workflows for GenAI Applications](https://github.com/HansikaGunasekara/Orchestrate-a-RAG-prototype)|||Deeplearning.AI short course completed to deepen and refine my 4+ years of ML product delivery experience orchestrating ML prototypes with Airflow|
 
 ## Data Analytics
 | Project Link | Tools | Project Description | 
